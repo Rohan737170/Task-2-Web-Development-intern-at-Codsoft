@@ -2,7 +2,7 @@ CodSoft Virtual Internship - Web Development Welcome to my repository for the Co
 
 Overview During this internship, I am focusing on building and enhancing my web development skills. The first task assigned to me was to create a landing page, which is included in this repository.
 
-Projects Task 2: Landing Page For my first task, I designed and developed a landing page. The objective was to create a visually appealing and responsive webpage using HTML, CSS.
+Projects Task 2: Landing Page For my second task, I designed and developed a landing page. The objective was to create a visually appealing and responsive webpage using HTML, CSS.
 
 Features: Responsive design for different screen sizes Clean and modern layout Easy navigation Interactive elements Technologies Used: HTML5 CSS3 How to View To view the landing page, you can clone this repository and open the index.html file in your web browser.
 
